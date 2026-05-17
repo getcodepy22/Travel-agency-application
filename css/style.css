@@ -1,0 +1,18 @@
+body{
+    height:90vh;
+    background:url('../img/plage.jpg') center/cover no-repeat ;
+    background-color: rgba(0, 0, 0, 0.5);
+    background-blend-mode: overlay;
+    
+}
+.card-img-top{
+    width: 100%;
+    height: 50%;
+}
+.p{
+    color: white;
+}
+.navbar-nav {
+    font-size: 16px;
+    font-style: italic;
+}
