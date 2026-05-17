@@ -65,8 +65,9 @@ Un espace **Admin PRO++** permet de gérer :
 
 ### 1. Cloner le projet
 ```bash
-git clone https://github.com/ton-projet/voyage-facile.git
-2. Importer la base de données
+git clone https://github.com/ton-projet/voyage-facile.git```
+
+### 2. Importer la base de données
 Ouvrir phpMyAdmin
 Créer une base : gestion_agence
 Importer le fichier .sql
