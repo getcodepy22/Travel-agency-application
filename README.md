@@ -65,9 +65,42 @@ Un espace **Admin PRO++** permet de gérer :
 
 ### 1. Cloner le projet
 ```bash
-git clone https://github.com/ton-projet/voyage-facile.git```
+git clone https://github.com/getcodepy22/Travel-agency-application
+```
 
 ### 2. Importer la base de données
 Ouvrir phpMyAdmin
-Créer une base : gestion_agence
-Importer le fichier .sql
+Créer une base de données : gestion_agence
+Importer le fichier SQL fourni : database.sql
+
+### 3. Lancer le projet
+Placer le projet dans htdocs (XAMPP)
+Accéder via :
+http://localhost/voyage-facile/
+
+## 🧾 Base de données
+
+# Tables principales :
+
+- users
+- vol
+- reservation
+- paiement
+
+## 🎨 Interface
+ - Design moderne avec Bootstrap 5
+ - Responsive (mobile / tablette / desktop)
+ - UI simple et intuitive
+ - Cartes dynamiques pour les vols
+- Interface admin professionnelle
+
+### 📈 Améliorations futures
+  - Paiement réel (Stripe / PayPal)
+  - API de vols en temps réel
+  - Système de notification email
+  - Application mobile (Flutter / React Native)
+  - Multi-langues (FR / EN / AR)
+## 👨‍💻 Auteur
+Projet de Fin cycle  (L3)
+
+
